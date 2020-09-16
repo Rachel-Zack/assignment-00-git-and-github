@@ -1,0 +1,15 @@
+{
+    "firstName": "Rachel",
+    "lastName": "Zack",
+    "nickName": "The Big Gay",
+    "privateName": false,
+    "picture": "Rachel-Zack.jpg",
+    "privatePicture": false,
+    "email": "rachel.zack@mail.utoronto.ca",
+    "privateEmail": true,
+    "github": "Rachel-Zack",
+    "privateGithub": false,
+    "superpower" : "Topping, Crying in Robarts",
+    "academicinterests": "American History, Politics of Identity, Psychology of Religion"
+  }
+  
